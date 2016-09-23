@@ -1,0 +1,8 @@
+C:\EntityBuilder\EntityBuilder\bin\Release\EntityBuilder.exe.config
+C:\EntityBuilder\EntityBuilder\bin\Release\EntityBuilder.exe
+C:\EntityBuilder\EntityBuilder\bin\Release\EntityBuilder.pdb
+C:\EntityBuilder\EntityBuilder\obj\Release\EntityBuilder.MainForm.resources
+C:\EntityBuilder\EntityBuilder\obj\Release\EntityBuilder.Properties.Resources.resources
+C:\EntityBuilder\EntityBuilder\obj\Release\EntityBuilder.csproj.GenerateResource.Cache
+C:\EntityBuilder\EntityBuilder\obj\Release\EntityBuilder.exe
+C:\EntityBuilder\EntityBuilder\obj\Release\EntityBuilder.pdb
